@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/binsil-thuruthivalappil/static/css/main.ef461621.css",
-    "main.js": "/binsil-thuruthivalappil/static/js/main.13d7e875.js",
+    "main.css": "/binsil-thuruthivalappil/static/css/main.a8700bf8.css",
+    "main.js": "/binsil-thuruthivalappil/static/js/main.813f7669.js",
     "static/js/453.e0e808fa.chunk.js": "/binsil-thuruthivalappil/static/js/453.e0e808fa.chunk.js",
     "static/media/xss.mp4": "/binsil-thuruthivalappil/static/media/xss.492f071c92da3cd686e3.mp4",
     "static/media/videoo.mp4": "/binsil-thuruthivalappil/static/media/videoo.0f1566e2ab62609a28eb.mp4",
@@ -27,12 +27,12 @@
     "static/media/website image 13.jpeg": "/binsil-thuruthivalappil/static/media/website image 13.d737fbce030389537bc3.jpeg",
     "static/media/showreel-image.jpeg": "/binsil-thuruthivalappil/static/media/showreel-image.52c0061df079427da992.jpeg",
     "index.html": "/binsil-thuruthivalappil/index.html",
-    "main.ef461621.css.map": "/binsil-thuruthivalappil/static/css/main.ef461621.css.map",
-    "main.13d7e875.js.map": "/binsil-thuruthivalappil/static/js/main.13d7e875.js.map",
+    "main.a8700bf8.css.map": "/binsil-thuruthivalappil/static/css/main.a8700bf8.css.map",
+    "main.813f7669.js.map": "/binsil-thuruthivalappil/static/js/main.813f7669.js.map",
     "453.e0e808fa.chunk.js.map": "/binsil-thuruthivalappil/static/js/453.e0e808fa.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ef461621.css",
-    "static/js/main.13d7e875.js"
+    "static/css/main.a8700bf8.css",
+    "static/js/main.813f7669.js"
   ]
 }
